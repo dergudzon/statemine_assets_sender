@@ -10,7 +10,9 @@
 ```python3 send_statemine_assets.py -C config.json -T test_targets2.csv```
 
 `-C` is path to the config.json, **required**
+
 `-T` is path to the CSV file imported from Google Sheets, **required**
+
 `--only_kaa` is the parameter for only asset transfer, excluding KSM existential deposit sending, **optional**
 
 
