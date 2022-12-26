@@ -1,0 +1,6 @@
+{
+    "endpoint": "wss://statemine-rpc.polkadot.io",
+    "seed": "%MNEMONIC_HERE%",
+    "ksm_existential_deposit": 100000000,
+    "asset_id": 377
+}
